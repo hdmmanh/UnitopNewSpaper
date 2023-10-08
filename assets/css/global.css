@@ -1,0 +1,35 @@
+
+#wrapper { 
+    font-family: 'Open Sans', sans-serif;
+}
+.text_700 { 
+    font-weight: 700;
+}
+.text_500 { 
+    font-weight: 500;
+}
+.text_uppercase { 
+    text-transform: uppercase;
+}
+.text_center { 
+    text-align: center;
+}
+.posi_relative { 
+    position: relative;
+}
+.posi_absolute { 
+    position: absolute;
+    
+}
+.cursor_poiter { 
+    cursor: pointer;
+}
+.text_deco_none:hover { 
+    text-decoration: none;
+}
+.list_stype_type { 
+    list-style-type: none;
+}
+.padding_left0 { 
+    padding-left: 0;
+}
